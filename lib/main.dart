@@ -175,7 +175,7 @@ class _VendingMachinePageState extends State<VendingMachinePage> {
     ),
     Product(
       code: 'A11',
-      name: 'ที่เช็ดแว่น',
+      name: 'ผ้าเช็ดแว่น',
       price: 20,
       image: 'assets/products/glasses_cloth.jpg',
       stock: 5,
