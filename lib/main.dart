@@ -105,7 +105,7 @@ class _VendingMachinePageState extends State<VendingMachinePage> {
   final List<Product> products = [
     Product(
       code: 'A1',
-      name: 'สบู่',
+      name: 'สบู่ล้างมือ',
       price: 25,
       image: 'assets/products/soap.jpg',
       stock: 5,
@@ -175,16 +175,16 @@ class _VendingMachinePageState extends State<VendingMachinePage> {
     ),
     Product(
       code: 'A11',
-      name: 'สำลีก้าน',
+      name: 'ที่เช็ดแว่น',
       price: 20,
-      image: 'assets/products/cotton_buds.jpg',
+      image: 'assets/products/glasses_cloth.jpg',
       stock: 5,
     ),
     Product(
       code: 'A12',
-      name: 'สำลีแผ่น',
+      name: 'ที่อุดหู',
       price: 25,
-      image: 'assets/products/cotton_pads.jpg',
+      image: 'assets/products/earplugs.jpg
       stock: 5,
     ),
     Product(
@@ -203,7 +203,7 @@ class _VendingMachinePageState extends State<VendingMachinePage> {
     ),
     Product(
       code: 'A15',
-      name: 'ผ้าเช็ดเปียก',
+      name: 'ทิชชู่เปียก',
       price: 25,
       image: 'assets/products/wet_tissue.jpg',
       stock: 5,
